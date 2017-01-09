@@ -1,0 +1,9 @@
+{
+  "name": "mock-firebase",
+  "version": "0.0.1",
+  "description": "",
+  "main": "firebase.js",
+  "author": "Scott C. Livingston",
+  "license": "UNLICENSED",
+  "private": true
+}
